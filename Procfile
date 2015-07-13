@@ -1,1 +1,1 @@
-web: gunicorn Racereview.wsgi --log-file -
+web: gunicorn racereview.wsgi --log-file -
